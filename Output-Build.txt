@@ -1,0 +1,13 @@
+------ Rebuild All started: Project: FuzzyLogic_Unit, Configuration: Debug Any CPU ------
+C:\Windows\Microsoft.NET\Framework\v3.5\Csc.exe /noconfig /nowarn:1701,1702 /errorreport:prompt /warn:4 /define:DEBUG;TRACE /reference:..\..\ES_Lib\ES_Lib\bin\Debug\ES_Lib.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Data.DataSetExtensions.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\FuzzyLogic_Unit.dll /target:library Core.cs Membership.cs Properties\AssemblyInfo.cs Range.cs Variable.cs
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Core.cs(255,20): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Core.cs(301,30): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Core.cs(350,30): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Core.cs(372,30): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Core.cs(444,42): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Variable.cs(273,30): warning CS0168: The variable 'ex' is declared but never used
+D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\Range.cs(61,30): warning CS0168: The variable 'ex' is declared but never used
+
+Compile complete -- 0 errors, 7 warnings
+FuzzyLogic_Unit -> D:\AMMAR\aeu\Senior Project\Software\Main Code\Fuzzy Code && Libraries\FuzzyLogic_Unit\FuzzyLogic_Unit\bin\Debug\FuzzyLogic_Unit.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

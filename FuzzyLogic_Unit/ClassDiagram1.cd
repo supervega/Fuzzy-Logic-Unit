@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FuzzyLogic_Unit.Core">
+    <Position X="5.5" Y="0.5" Width="2.75" />
+    <NestedTypes>
+      <Delegate Name="FuzzyLogic_Unit.Core.AddRule" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Struct Name="FuzzyLogic_Unit.Core.FuzzyNumber" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Delegate Name="FuzzyLogic_Unit.Core.ClearRules" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Core.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACGEQAAgBCAAAwkQBAAgAAABIQgAAFgCRIIUzHBGSAA=</HashCode>
+      <FileName>Core.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogic_Unit.Membership">
+    <Position X="0.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQIAAAAAAAAAQgAAAEIAAAAAAAAACAABA=</HashCode>
+      <FileName>Membership.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogic_Unit.Range">
+    <Position X="8.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAACACAIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Range.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FuzzyLogic_Unit.Variable">
+    <Position X="3.25" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="FuzzyLogic_Unit.Variable.VarType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Variable.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAIAAAACgwAAAIMAAAEDAAgIAYAIAAkASEENEgg=</HashCode>
+      <FileName>Variable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
